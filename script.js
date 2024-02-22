@@ -23,7 +23,7 @@ let updateTimer;
 const music_list = [
   {
     img: "assets/images/Dunki.jpg",
-    name: "Dunki",
+    name: "O Mahi",
     artist: "Arijith",
     music: "assets/music/O Mahi O Mahi.mp3",
   },
