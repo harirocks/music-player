@@ -23,9 +23,9 @@ let updateTimer;
 const music_list = [
   {
     img: "assets/images/Ruth.jpg",
-    name: "Dandelions",
-    artist: "Ruth B",
-    music: "assets/music/Dandelions.mp3",
+    name: "Dunki",
+    artist: "Arijith",
+    music: "assets/music/O Mahi O Mahi.mp3",
   },
   {
     img: "assets/images/you&i.jpg",
